@@ -1,0 +1,6 @@
+{
+  "name": "XML Studio",
+  "description": "Shape data. Transform logic. See the result. A high-performance, professional XML and XSL/XSLT authoring, validation, and real-time transformation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
